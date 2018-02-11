@@ -46,11 +46,11 @@ class PyTest(TestCommand):
 
 
 setup(
-    name='python-consul',
+    name='nsof-python-consul',
     version=metadata['version'],
     author='Andy Gayton',
     author_email='andy@thecablelounge.com',
-    url='https://github.com/cablehead/python-consul',
+    url='https://github.com/nsofnetworks/python-consul',
     license='MIT',
     description=description,
     long_description=open('README.rst').read() + '\n\n' +
