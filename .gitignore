@@ -47,3 +47,7 @@ pip-log.txt
 # IntelliJ project files
 *.iml
 .idea/
+
+# VSCode project files
+.vscode/
+
